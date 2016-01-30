@@ -123,7 +123,7 @@ function stage2(){
     var strFi = "Now do you really think..."
     var strSe = "I will let you pass?"
     allow = 0;
-    $("#head").attr("src", "sprHead2.png");
+    $("#head").attr("src", "https://cloud.githubusercontent.com/assets/13833499/12694075/d565bc20-c6ee-11e5-8124-725d5435bb7f.png");
     $("#head").css("width", "7.6%")
     $("#textBubble").css("display", "block");
     
@@ -179,7 +179,7 @@ function stage3(){
     $(".talkingRow1").html("");
     $(".row1").html("");
     $(".row2").html("");
-    $("#head").attr("src", "sprHead3.png");
+    $("#head").attr("src", "https://cloud.githubusercontent.com/assets/13833499/12694076/d56e7270-c6ee-11e5-8579-924f1ca6a1f7.png");
     $("#head").css("width", "7.6%")
     allow = 0;
     clearInterval(headMove)
