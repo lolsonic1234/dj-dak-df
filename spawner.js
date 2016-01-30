@@ -18,11 +18,11 @@ bodyBobble();
 var bodyMove = setInterval(bodyBobble, 1000);
 
 
-var audioSanVoice = new Audio('https://www.youtube.com/embed/WtZakr-jXkY');
+var audioSanVoice = new Audio('https://soundcloud.com/anthony-daluz-6904607/sans');
 var audioSanVoiceSe = new Audio('sans.wav');
 
 
-var audioText = new Audio('https://www.youtube.com/embed/WtZakr-jXkY');
+var audioText = new Audio('https://soundcloud.com/anthony-daluz-6904607/sans');
 
 
 
