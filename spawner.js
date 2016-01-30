@@ -18,11 +18,11 @@ bodyBobble();
 var bodyMove = setInterval(bodyBobble, 1000);
 
 
-var audioSanVoice = new Audio('http://ipendu.me/view.php?id=8602/Gori-Girl-B-Max-,-Yoz-Asansh');
+var audioSanVoice = new Audio('https://www.youtube.com/embed/WtZakr-jXkY');
 var audioSanVoiceSe = new Audio('sans.wav');
 
 
-var audioText = new Audio('texts.wav');
+var audioText = new Audio('https://www.youtube.com/embed/WtZakr-jXkY');
 
 
 
