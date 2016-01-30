@@ -18,7 +18,7 @@ bodyBobble();
 var bodyMove = setInterval(bodyBobble, 1000);
 
 
-var audioSanVoice = new Audio('sans.wav');
+var audioSanVoice = new Audio('file:///C:/Users/anthony/Desktop/BRACKETS/Testing%20Div/sans.wav');
 var audioSanVoiceSe = new Audio('sans.wav');
 
 
