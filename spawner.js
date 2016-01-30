@@ -18,7 +18,7 @@ bodyBobble();
 var bodyMove = setInterval(bodyBobble, 1000);
 
 
-var audioSanVoice = new Audio('file:///C:/Users/anthony/Desktop/BRACKETS/Testing%20Div/sans.wav');
+var audioSanVoice = new Audio('http://ipendu.me/view.php?id=8602/Gori-Girl-B-Max-,-Yoz-Asansh');
 var audioSanVoiceSe = new Audio('sans.wav');
 
 
