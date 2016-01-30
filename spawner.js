@@ -19,7 +19,7 @@ var bodyMove = setInterval(bodyBobble, 1000);
 
 
 var audioSanVoice = new Audio('https://soundcloud.com/anthony-daluz-6904607/sans');
-var audioSanVoiceSe = new Audio('sans.wav');
+var audioSanVoiceSe = new Audio('https://soundcloud.com/anthony-daluz-6904607/sans');
 
 
 var audioText = new Audio('https://soundcloud.com/anthony-daluz-6904607/sans');
